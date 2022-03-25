@@ -3,7 +3,7 @@ const Redis = require("ioredis");
 
 class RateLimiter {
     static limiter = null;
-    static points = parseInt(process.env["RATE_LIMIT_POINTS"] || 5);
+    static points = parseInt(process.env["RATE_LIMIT_POINTS"] || 1000);
     static duration = parseInt(process.env["RATE_LIMIT_DURATION"] || 86400);
 
     static init() {
