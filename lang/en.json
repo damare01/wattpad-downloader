@@ -12,7 +12,7 @@
 		"placeholder": "Enter URL to book, part or id",
 		"submit": "Next"
 	},
-	"about us": [
+	"about_us": [
 		{
 			"title": "About This App",
 			"text": "Wattpad2Epub is a web app that crawls novels on <a class=\"adsimple-311190408\" href=\"https://www.wattpad.com\" target=\"_blank\" rel=\"noopener\">Wattpad</a> and converts them into e-books. It does not host any novels, but only acquires the content from the said website."
