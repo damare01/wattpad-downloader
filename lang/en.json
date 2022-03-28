@@ -69,5 +69,5 @@
 		"serverError": "The book could not be retrieved/converted due to an internal error.",
 		"paywall": "Paid-Stories aren't allowed for download.",
 		"rateLimit": "You reached the download limit for today"
-	}
+	
 }
