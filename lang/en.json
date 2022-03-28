@@ -4,12 +4,29 @@
 		"home": "Home",
 		"help": "Help",
 		"privacy": "Privacy"
+		"about us": "About Us"
 	},
 	"home": {
 		"text": "Download Wattpad stories for<br/> e-book readers, smartphones, desktop and more!",
 		"urlDescription": "Open a story on wattpad and copy the <b>link</b>",
 		"placeholder": "Enter URL to book, part or id",
 		"submit": "Next"
+	},
+	"about us": [
+		{
+			"title": "About This App",
+			"text": "Wattpad2Epub is a web app that crawls novels on <a href="https://www.wattpad.com/">Wattpad</a> and converts them into e-books. It does not host any novels, but only acquires the content from the said website."
+"
+		},
+		{
+			"title": "Misuse",
+			"text": "We are only providing a tool, as such who are using it or how it is being used is not our concern. To prevent misuse we strongly endorse to only use this tool to download novels that you would read."
+			
+		},
+		{
+			"title": "Disclaimer",
+			"text": "We are not affiliated, associated, authorized, endorsed by, or in any way officially connected the said site."
+			
 	},
 	"help": [
 		{
