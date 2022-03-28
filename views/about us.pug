@@ -1,0 +1,7 @@
+extends _layout
+
+block page
+    div.page
+        each about_us in lang.about_us
+            h1= help.title
+            p!= help.text
